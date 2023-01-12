@@ -1,0 +1,3 @@
+const validateUser = ({username, passoword}) => {
+    
+}
